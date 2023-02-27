@@ -28,6 +28,7 @@ This section demonstrates:
 - Importing missing values using **SimpleImputer** from the **sklearn** module
 - Updating matrices using the **SimpleImputer** transform method
 - Encoding all rows in a column using **OneHotEncoder** and **ColumnTransformer** from the **sklearn** module
+- Encoding on a single column using **LabelEncoder** from the **sklearn** module
 
 ---
 
