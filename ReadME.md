@@ -7,6 +7,6 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 This section demonstrates:
 
 - Reading data from a CSV file using *pandas*
-- Importing missing values using *SimpleImputer* from the *sklearn*
+- Importing missing values using *SimpleImputer* from the *sklearn* module
 - Updating matrices using the *SimpleImputer* transform method
 - Creating a *OneHotEncoder* instance for a column of strings
