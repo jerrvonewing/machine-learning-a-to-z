@@ -1,5 +1,5 @@
 # Machine Learning A to Z
-![Thinking AI](https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960)
+![Thinking AI](https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif)
 
 ## Overview
 This repository documents my machine learning journey
