@@ -1,4 +1,6 @@
 # Machine Learning A to Z
+![Thinking AI](https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960)
+
 ## Overview
 This repository documents my machine learning journey
 ## [01 Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-Data-Preprocessing/data_preprocessing.ipynb)
