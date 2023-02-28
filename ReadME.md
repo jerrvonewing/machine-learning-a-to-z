@@ -29,6 +29,7 @@ This section demonstrates:
 - Updating matrices using the **SimpleImputer** transform method
 - Encoding all rows in a column using **OneHotEncoder** and **ColumnTransformer** from the **sklearn** module
 - Encoding on a single column using **LabelEncoder** from the **sklearn** module
+- Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
 
 ---
 
