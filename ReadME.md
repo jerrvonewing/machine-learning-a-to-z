@@ -32,7 +32,8 @@ This section demonstrates:
 - Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
 - Feature Scaling using and Standardization using **StandardScaler** from the **sklearn** module
 
-### **Data Preprocessing Template File **
+### **Data Preprocessing Template File ** ###
+
 This [link](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb) will direct you to the data preprocessing template where the filename needs to be updated to work on a given dataset.
 ---
 
