@@ -5,7 +5,7 @@
 This repository documents my machine learning journey. This file consists of files demonstrating the work, as well as template files that help kickstart machine learning applications
 
 ### Working Files ###
-- [01 - Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing.ipynb)
+- [01 - Data Preprocessing](#01---Data-Preprocessing)
 ### Template Files ###
 - [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb)
 ---
