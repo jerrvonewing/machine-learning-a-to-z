@@ -2,11 +2,15 @@
 ![Thinking AI](https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif)
 
 ## **Project Overview** ##
-This repository documents my machine learning journey
+This repository documents my machine learning journey. This file consists of files demonstrating the work, as well as template files that help kickstart machine learning applications
 
+### Working Files ###
+- [01 - Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing.ipynb)
+### Template Files ###
+- [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb)
 ---
 
-## **[01 Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing.ipynb)**
+## **[01 - Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing.ipynb)**
 
 ### **Getting Started** ###
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
