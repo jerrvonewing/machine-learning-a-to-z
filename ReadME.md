@@ -46,7 +46,25 @@ This section demonstrates:
 ## **[02 - Simple Linear Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/02-simple-linear-regression/simple_linear_regression.ipynb)**
 
 ### **Getting Started** ###
+This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
+
+```powershell
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install sklearn
+```
 
 ### **Section Overview** ###
+This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a linear relationship between years of experience and salary.
 
-### **Template Files** ###
+This section demonstrates:
+
+- Reading data from a CSV file using **pandas**
+- Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
+- Creating a linear regression model using the **LinearRegression** class from the **sklearn** module
+- Predicting the dependent variable based on the training set
+- Visualizing the actual vs predicted results for both the test set and data set
+---
+
+
