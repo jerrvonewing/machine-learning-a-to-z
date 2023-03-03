@@ -95,6 +95,9 @@ This section demonstrates:
 - Predicting the dependent variable based on the training set
 - Visualizing the actual vs predicted results for both the test set and data set
 
+### **Assumptions of Linear Regression** ###
+![Assumptions of Linear Regression Graphic](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/B97-Header-Image.jpg)
+
 ---
 
 ## **[03 - Multiple Linear Regression]()**
