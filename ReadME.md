@@ -7,6 +7,7 @@ This repository documents my machine learning journey. This file consists of fil
 ###  Table of Contents ###
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
+- [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
 ### Template Files ###
 - [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb)
 ---
