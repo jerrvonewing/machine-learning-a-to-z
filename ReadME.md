@@ -2,7 +2,7 @@
 ![Thinking AI](https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif)
 
 ## **Project Overview** ##
-This repository documents my machine learning journey. This file consists of files demonstrating the work, as well as template files that help kickstart machine learning applications
+This repository documents my machine learning journey. This repository consists of files demonstrating the work, as well as template files that help kickstart machine learning applications
 
 ###  Table of Contents ###
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
@@ -100,7 +100,7 @@ This section demonstrates:
 
 ---
 
-## **[03 - Multiple Linear Regression]()**
+## **[03 - Multiple Linear Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/03-multiple-linear-regression/multiple_linear_resgression.ipynb)**
 
 
 ### **Getting Started** ###
@@ -118,4 +118,5 @@ This section contains a Jupyter Notebook that takes in a CSV file containing dat
 
 This section demonstrates:
 
-- 
+- Reading data from a CSV file using **pandas**
+- Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
