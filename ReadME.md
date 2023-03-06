@@ -120,3 +120,7 @@ This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
 - Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
+- Encoding categorical data using **OneHotEncoder**
+- Training multiple linear regression model on training set using the **LinearRegression** method
+- Using our linear regression model to predict results using the **predict** method
+- Calculating the linear regression equation using the **coef_** and **intercept** method
