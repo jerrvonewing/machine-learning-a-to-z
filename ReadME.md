@@ -8,7 +8,7 @@ This repository documents my machine learning journey. This repository consists 
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
 - [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
-- [04 - Polynomial Regression](#03---Polynomial-Regression)
+- [04 - Polynomial Regression](#04---Polynomial-Regression)
 
 ### Template Files ###
 - [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb)
