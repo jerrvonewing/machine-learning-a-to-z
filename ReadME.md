@@ -140,3 +140,12 @@ pip install sklearn
 ```
 
 ### **Section Overview** ###
+This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a linear or polynomial relationship between job title and salary.
+
+This section demonstrates:
+
+- Reading data from a CSV file using **pandas**
+- Training multiple linear regression model on the dataset using the **LinearRegression** method
+- Training polynomial linear regression model on the dataset using the **PolynomialFeatures** method
+- Using our polynomial linear regression model to predict results using the **predict** method
+- Visualizing data using the **matplotlib** module
