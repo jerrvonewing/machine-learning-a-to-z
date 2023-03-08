@@ -140,7 +140,7 @@ pip install sklearn
 ```
 
 ### **Section Overview** ###
-This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a linear or polynomial relationship between job title and salary.
+This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a linear or polynomial relationship between job level and salary.
 
 This section demonstrates:
 
