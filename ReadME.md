@@ -8,6 +8,8 @@ This repository documents my machine learning journey. This repository consists 
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
 - [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
+- [04 - Polynomial Regression](#03---Polynomial-Regression)
+
 ### Template Files ###
 - [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb)
 ---
@@ -124,3 +126,17 @@ This section demonstrates:
 - Training multiple linear regression model on training set using the **LinearRegression** method
 - Using our linear regression model to predict results using the **predict** method
 - Calculating the linear regression equation using the **coef_** and **intercept** method
+---
+
+## **[04 - Polynomial Regression]()**
+### **Getting Started** ###
+This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
+
+```powershell
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install sklearn
+```
+
+### **Section Overview** ###
