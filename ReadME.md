@@ -128,7 +128,7 @@ This section demonstrates:
 - Calculating the linear regression equation using the **coef_** and **intercept** method
 ---
 
-## **[04 - Polynomial Regression]()**
+## **[04 - Polynomial Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/04-polynomial-regression/polynomial_regression.ipynb)**
 ### **Getting Started** ###
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
