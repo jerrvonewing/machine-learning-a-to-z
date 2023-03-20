@@ -9,6 +9,8 @@ This repository documents my machine learning journey. This repository consists 
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
 - [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
 - [04 - Polynomial Regression](#04---Polynomial-Regression)
+- [05 - Support Vector Regression](#05---Support-Vector-Regression)
+
 
 ### Template Files ###
 - [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb)
@@ -149,3 +151,25 @@ This section demonstrates:
 - Training polynomial linear regression model on the dataset using the **PolynomialFeatures** method
 - Using our polynomial linear regression model to predict results using the **predict** method
 - Visualizing data using the **matplotlib** module
+---
+
+## **[05 - Support Vector Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/05-support-vector-regression/support_vector_regression.ipynb)**
+
+
+### **Getting Started** ###
+This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
+
+```powershell
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install sklearn
+```
+
+### **Section Overview** ###
+This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a SVR relationship between job level and salary.
+
+This section demonstrates:
+
+- Reading data from a CSV file using **pandas**
+- Feature Scaling using and Standardization using **StandardScaler** from the **sklearn** module
