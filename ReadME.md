@@ -175,3 +175,6 @@ This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
 - Feature Scaling using and Standardization using **StandardScaler** from the **sklearn** module
+- Training the dataset using the **sklearn** module
+- Predicting single and multiple values
+- Visualization the data using the **matplotlib** module
