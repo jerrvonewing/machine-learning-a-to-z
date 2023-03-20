@@ -6,7 +6,7 @@ This repository documents my machine learning journey. This repository consists 
 
 ---
 ##  Table of Contents ###
-### Regression
+### [Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/tree/main/regression)
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
 - [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
