@@ -4,7 +4,9 @@
 ## **Project Overview** ##
 This repository documents my machine learning journey. This repository consists of files demonstrating the work, as well as template files that help kickstart machine learning applications
 
-###  Table of Contents ###
+---
+##  Table of Contents ###
+### Regression
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
 - [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
