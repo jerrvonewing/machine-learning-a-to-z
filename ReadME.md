@@ -181,7 +181,7 @@ This section demonstrates:
 - Visualization the data using the **matplotlib** module
 ---
 
-## **[06 - Decision Tree Regression]()**
+## **[06 - Decision Tree Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/06-decision-tree-regression/decision_tree_regression.ipynb)**
 
 ### **Getting Started** ###
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
