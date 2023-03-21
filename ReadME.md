@@ -12,6 +12,7 @@ This repository documents my machine learning journey. This repository consists 
 - [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
 - [04 - Polynomial Regression](#04---Polynomial-Regression)
 - [05 - Support Vector Regression](#05---Support-Vector-Regression)
+- [06 - Decision Tree Regression](#06---Decision-Tree-Regression)
 
 
 ### Template Files ###
@@ -175,6 +176,28 @@ This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
 - Feature Scaling using and Standardization using **StandardScaler** from the **sklearn** module
+- Training the dataset using the **sklearn** module
+- Predicting single and multiple values
+- Visualization the data using the **matplotlib** module
+---
+
+## **[06 - Decision Tree Regression]()**
+
+### **Getting Started** ###
+This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
+
+```powershell
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install sklearn
+```
+### **Section Overview** ###
+This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a Decision Tree relationship between job level and salary.
+
+This section demonstrates:
+
+- Reading data from a CSV file using **pandas**
 - Training the dataset using the **sklearn** module
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
