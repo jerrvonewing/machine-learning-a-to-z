@@ -23,9 +23,19 @@ This repository documents my machine learning journey. This repository consists 
 - [06 - Decision Tree Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/06-decision-tree-regression/decision_tree_regression_template.ipynb)
 - [07 - Random Forest Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/07-random-forest-regression/random_forest_regression_template.ipynb)
 
+### [Classification Models](#Classification-models-1)
+- 
+- 
+- 
+- 
+#### Classification Template Files 
+- 
+- 
+- 
 
-## **Regression Models**
 ---
+## **Regression Models**
+
 ### **[01 - Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/01-data-preprocessing/data_preprocessing.ipynbb)**
 
 #### **Getting Started** 
@@ -235,3 +245,6 @@ r2_score(y_test, y_pred)
 ```
 
 For the dataset we were given, random forest regression model has the highest r2 score.
+
+---
+## **Classification Models**
