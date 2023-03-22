@@ -5,8 +5,9 @@
 This repository documents my machine learning journey. This repository consists of files demonstrating the work, as well as template files that help kickstart machine learning applications
 
 ---
-##  Table of Contents ###
-### [Regression](#Regression-Models)
+##  Table of Contents 
+### [Regression Template Files](#regression-template-files-1)
+### [Regression Models](#Regression-Models)
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
 - [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
@@ -16,7 +17,7 @@ This repository documents my machine learning journey. This repository consists 
 - [07 - Random Forest Regression](#07---Random-Forest-Regression)
 
 
-#### Template Files ###
+#### Regression Template Files 
 - [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb)
 - [03 - Multiple Linear Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/03-multiple-linear-regression/multiple_linear_regression_template.ipynb)
 - [04 - Polynomial Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/04-polynomial-regression/polynomial_regression_template.ipynb)
