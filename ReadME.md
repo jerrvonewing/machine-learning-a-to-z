@@ -6,7 +6,7 @@ This repository documents my machine learning journey. This repository consists 
 
 ---
 ##  Table of Contents ###
-### [Regression](#regression)
+### [Regression](#Regression-Models)
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
 - [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
@@ -25,7 +25,7 @@ This repository documents my machine learning journey. This repository consists 
 - [07 - Random Forest Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/07-random-forest-regression/random_forest_regression_template.ipynb)
 
 
-## **Regression**
+## **Regression Models**
 ---
 ## **[01 - Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/01-data-preprocessing/data_preprocessing.ipynbb)**
 
