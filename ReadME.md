@@ -6,7 +6,6 @@ This repository documents my machine learning journey. This repository consists 
 
 ---
 ##  Table of Contents 
-### [Regression Template Files](#regression-template-files-1)
 ### [Regression Models](#Regression-models-1)
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
@@ -15,7 +14,6 @@ This repository documents my machine learning journey. This repository consists 
 - [05 - Support Vector Regression](#05---Support-Vector-Regression)
 - [06 - Decision Tree Regression](#06---Decision-Tree-Regression)
 - [07 - Random Forest Regression](#07---Random-Forest-Regression)
-
 
 #### Regression Template Files 
 - [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb)
@@ -30,7 +28,7 @@ This repository documents my machine learning journey. This repository consists 
 ---
 ### **[01 - Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/01-data-preprocessing/data_preprocessing.ipynbb)**
 
-### **Getting Started** ###
+#### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
 ```powershell
@@ -40,7 +38,7 @@ pip install pandas
 pip install sklearn
 ```
 
-### **Section Overview** ###
+#### **Section Overview** 
 
 This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if a customer would make a purchase using our machine learning model
 
@@ -85,7 +83,7 @@ This section demonstrates:
 
 ### **[02 - Simple Linear Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/02-simple-linear-regression/simple_linear_regression.ipynb)**
 
-### **Getting Started** ###
+#### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
 ```powershell
@@ -95,7 +93,7 @@ pip install pandas
 pip install sklearn
 ```
 
-### **Section Overview** ###
+#### **Section Overview** 
 This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a linear relationship between years of experience and salary.
 
 This section demonstrates:
@@ -106,7 +104,7 @@ This section demonstrates:
 - Predicting the dependent variable based on the training set
 - Visualizing the actual vs predicted results for both the test set and data set
 
-### **Assumptions of Linear Regression** ###
+#### **Assumptions of Linear Regression** ###
 ![Assumptions of Linear Regression Graphic](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/B97-Header-Image.jpg)
 
 ---
@@ -114,7 +112,7 @@ This section demonstrates:
 ### **[03 - Multiple Linear Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/03-multiple-linear-regression/multiple_linear_resgression.ipynb)**
 
 
-### **Getting Started** ###
+#### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
 ```powershell
@@ -124,7 +122,7 @@ pip install pandas
 pip install sklearn
 ```
 
-### **Section Overview** ###
+#### **Section Overview** 
 This section contains a Jupyter Notebook that takes in a CSV file containing data of 50 startup companies. We have how much was spent on research & developent, administration, marketing, what state they are based out of, and profit. We want to determine if there is a linear relationship between these varaibles compared to profit.
 
 This section demonstrates:
@@ -138,7 +136,7 @@ This section demonstrates:
 ---
 
 ### **[04 - Polynomial Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/04-polynomial-regression/polynomial_regression.ipynb)**
-### **Getting Started** ###
+#### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
 ```powershell
@@ -148,7 +146,7 @@ pip install pandas
 pip install sklearn
 ```
 
-### **Section Overview** ###
+#### **Section Overview** 
 This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a linear or polynomial relationship between job level and salary.
 
 This section demonstrates:
@@ -163,7 +161,7 @@ This section demonstrates:
 ### **[05 - Support Vector Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/05-support-vector-regression/support_vector_regression.ipynb)**
 
 
-### **Getting Started** ###
+#### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
 ```powershell
@@ -173,7 +171,7 @@ pip install pandas
 pip install sklearn
 ```
 
-### **Section Overview** ###
+#### **Section Overview** 
 This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a SVR relationship between job level and salary.
 
 This section demonstrates:
@@ -187,7 +185,7 @@ This section demonstrates:
 
 ### **[06 - Decision Tree Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/06-decision-tree-regression/decision_tree_regression.ipynb)**
 
-### **Getting Started** ###
+#### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
 ```powershell
@@ -196,7 +194,7 @@ pip install matplotlib
 pip install pandas
 pip install sklearn
 ```
-### **Section Overview** ###
+#### **Section Overview** 
 This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a Decision Tree relationship between job level and salary.
 
 This section demonstrates:
@@ -209,7 +207,7 @@ This section demonstrates:
 
 ### **[07 - Random Forest Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/07-random-forest-regression/random_forest_regression.ipynb)**
 
-### **Getting Started** ###
+#### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
 ```powershell
@@ -218,7 +216,7 @@ pip install matplotlib
 pip install pandas
 pip install sklearn
 ```
-### **Section Overview** ###
+#### **Section Overview** 
 This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a Random Forest Regression relationship between job level and salary.
 
 This section demonstrates:
