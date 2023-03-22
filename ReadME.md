@@ -264,6 +264,9 @@ This section demonstrates:
 - Training the dataset using the **sklearn** module
 - Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
 - Feature Scaling using and Standardization using **StandardScaler** from the **sklearn** module
+- Creation of a **confusion matrix** and calulating the accuracy score
+- Predicting single and multiple values
+- Visualization the data using the **matplotlib** module
 ---
 
 ### **[Next Section]()**
