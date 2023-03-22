@@ -24,14 +24,11 @@ This repository documents my machine learning journey. This repository consists 
 - [07 - Random Forest Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/07-random-forest-regression/random_forest_regression_template.ipynb)
 
 ### [Classification Models](#Classification-models-1)
-- 
-- 
-- 
-- 
+- [01 - Logistic Regression](#01---Logistic-Regression)
+
 #### Classification Template Files 
 - 
-- 
-- 
+
 
 ---
 ## **Regression Models**
@@ -248,7 +245,7 @@ For the dataset we were given, random forest regression model has the highest r2
 
 ---
 ## **Classification Models**
-### **[01 - Logistic Regression]()**
+### **[01 - Logistic Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/01-logistic-regression/logistic_regression.ipynb)**
 #### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
