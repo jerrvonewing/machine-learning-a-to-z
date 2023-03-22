@@ -24,8 +24,9 @@ This repository documents my machine learning journey. This repository consists 
 - [06 - Decision Tree Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/06-decision-tree-regression/decision_tree_regression_template.ipynb)
 - [07 - Random Forest Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/07-random-forest-regression/random_forest_regression_template.ipynb)
 
----
 
+## **Regression**
+---
 ## **[01 - Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/01-data-preprocessing/data_preprocessing.ipynbb)**
 
 ### **Getting Started** ###
@@ -230,3 +231,13 @@ This section demonstrates:
 - Training the dataset using the **sklearn** module
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
+
+## Regression Conclusion: ##
+To determine which regression model is best for a given dataset, run the following code snippet to get the r squared value. The closer r squared is to 1, the better the regression model is.
+
+```python
+from sklearn.metrics import r2_score
+r2_score(y_test, y_pred)
+```
+
+For the dataset we were given, random forest regression model has the highest r2 score.
