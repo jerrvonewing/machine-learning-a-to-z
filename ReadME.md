@@ -27,7 +27,7 @@ This repository documents my machine learning journey. This repository consists 
 
 ## **Regression Models**
 ---
-## **[01 - Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/01-data-preprocessing/data_preprocessing.ipynbb)**
+### **[01 - Data Preprocessing](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/01-data-preprocessing/data_preprocessing.ipynbb)**
 
 ### **Getting Started** ###
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
@@ -87,7 +87,7 @@ This section demonstrates:
 
 ---
 
-## **[02 - Simple Linear Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/02-simple-linear-regression/simple_linear_regression.ipynb)**
+### **[02 - Simple Linear Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/02-simple-linear-regression/simple_linear_regression.ipynb)**
 
 ### **Getting Started** ###
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
@@ -115,7 +115,7 @@ This section demonstrates:
 
 ---
 
-## **[03 - Multiple Linear Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/03-multiple-linear-regression/multiple_linear_resgression.ipynb)**
+### **[03 - Multiple Linear Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/03-multiple-linear-regression/multiple_linear_resgression.ipynb)**
 
 
 ### **Getting Started** ###
@@ -141,7 +141,7 @@ This section demonstrates:
 - Calculating the linear regression equation using the **coef_** and **intercept** method
 ---
 
-## **[04 - Polynomial Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/04-polynomial-regression/polynomial_regression.ipynb)**
+### **[04 - Polynomial Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/04-polynomial-regression/polynomial_regression.ipynb)**
 ### **Getting Started** ###
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
@@ -164,7 +164,7 @@ This section demonstrates:
 - Visualizing data using the **matplotlib** module
 ---
 
-## **[05 - Support Vector Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/05-support-vector-regression/support_vector_regression.ipynb)**
+### **[05 - Support Vector Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/05-support-vector-regression/support_vector_regression.ipynb)**
 
 
 ### **Getting Started** ###
@@ -189,7 +189,7 @@ This section demonstrates:
 - Visualization the data using the **matplotlib** module
 ---
 
-## **[06 - Decision Tree Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/06-decision-tree-regression/decision_tree_regression.ipynb)**
+### **[06 - Decision Tree Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/06-decision-tree-regression/decision_tree_regression.ipynb)**
 
 ### **Getting Started** ###
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
@@ -211,7 +211,7 @@ This section demonstrates:
 - Visualization the data using the **matplotlib** module
 ---
 
-## **[07 - Random Forest Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/07-random-forest-regression/random_forest_regression.ipynb)**
+### **[07 - Random Forest Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/07-random-forest-regression/random_forest_regression.ipynb)**
 
 ### **Getting Started** ###
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
