@@ -81,11 +81,6 @@ This section demonstrates:
  [0.0 1.0 0.0 50.0 83000.0]
  [1.0 0.0 0.0 37.0 67000.0]]
 ```
-
-### **Template Files** ###
-
-- [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb)
-
 ---
 
 ### **[02 - Simple Linear Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/02-simple-linear-regression/simple_linear_regression.ipynb)**
