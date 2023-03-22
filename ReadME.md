@@ -201,3 +201,25 @@ This section demonstrates:
 - Training the dataset using the **sklearn** module
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
+---
+
+## **[07 - Random Forest Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/07-random-forest-regression/random_forest_regression.ipynb)**
+
+### **Getting Started** ###
+This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
+
+```powershell
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install sklearn
+```
+### **Section Overview** ###
+This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a Random Forest Regression relationship between job level and salary.
+
+This section demonstrates:
+
+- Reading data from a CSV file using **pandas**
+- Training the dataset using the **sklearn** module
+- Predicting single and multiple values
+- Visualization the data using the **matplotlib** module
