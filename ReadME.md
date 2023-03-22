@@ -248,3 +248,27 @@ For the dataset we were given, random forest regression model has the highest r2
 
 ---
 ## **Classification Models**
+### **[01 - Logistic Regression]()**
+#### **Getting Started** 
+This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
+
+```powershell
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install sklearn
+```   
+#### **Section Overview**
+This section contains a Jupyter Notebook that takes in a CSV file a dataset of previous customer info from a popular car dealership. We want to determine if a customer will purchase a new vehicle based on age and salary.
+
+This section demonstrates:
+
+- Reading data from a CSV file using **pandas**
+- Training the dataset using the **sklearn** module
+- Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
+- Feature Scaling using and Standardization using **StandardScaler** from the **sklearn** module
+---
+
+### **[Next Section]()**
+#### **Getting Started**    
+#### **Section Overview**
