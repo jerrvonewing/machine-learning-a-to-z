@@ -7,7 +7,7 @@ This repository documents my machine learning journey. This repository consists 
 ---
 ##  Table of Contents 
 ### [Regression Template Files](#regression-template-files-1)
-### [Regression Models](#Regression-Models)
+### [Regression Models](#Regression-models-1)
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
 - [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
