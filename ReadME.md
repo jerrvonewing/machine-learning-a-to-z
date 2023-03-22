@@ -232,7 +232,7 @@ This section demonstrates:
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
 
-## Regression Conclusion: ##
+### Regression Conclusion: 
 To determine which regression model is best for a given dataset, run the following code snippet to get the r squared value. The closer r squared is to 1, the better the regression model is.
 
 ```python
