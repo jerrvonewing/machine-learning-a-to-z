@@ -239,7 +239,7 @@ This section demonstrates:
 To determine which regression model is best for a given dataset, run the following code snippet to get the r squared value. The closer r squared is to 1, the better the regression model is.
 
 ```python
-from scikit-learn.metrics import r2_score
+from sklearn.metrics import r2_score
 r2_score(y_test, y_pred)
 ```
 
