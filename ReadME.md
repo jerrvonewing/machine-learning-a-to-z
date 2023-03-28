@@ -42,7 +42,7 @@ This section is written using a Jupyter framework, where all packages are instal
 pip install numpy
 pip install matplotlib
 pip install pandas
-pip install sklearn
+pip install scikit-learn
 ```
 
 #### **Section Overview** 
@@ -52,12 +52,12 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
-- Importing missing values using **SimpleImputer** from the **sklearn** module
+- Importing missing values using **SimpleImputer** from the **scikit-learn** module
 - Updating matrices using the **SimpleImputer** transform method
-- Encoding all rows in a column using **OneHotEncoder** and **ColumnTransformer** from the **sklearn** module
-- Encoding on a single column using **LabelEncoder** from the **sklearn** module
-- Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
-- Feature Scaling using and Standardization using **StandardScaler** from the **sklearn** module
+- Encoding all rows in a column using **OneHotEncoder** and **ColumnTransformer** from the **scikit-learn** module
+- Encoding on a single column using **LabelEncoder** from the **scikit-learn** module
+- Splitting the data into training and test sets using **train_test_split** from the **scikit-learn** module
+- Feature Scaling using and Standardization using **StandardScaler** from the **scikit-learn** module
 
 ```python
 # Original Dataset
@@ -97,7 +97,7 @@ This section is written using a Jupyter framework, where all packages are instal
 pip install numpy
 pip install matplotlib
 pip install pandas
-pip install sklearn
+pip install scikit-learn
 ```
 
 #### **Section Overview** 
@@ -106,8 +106,8 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
-- Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
-- Creating a linear regression model using the **LinearRegression** class from the **sklearn** module
+- Splitting the data into training and test sets using **train_test_split** from the **scikit-learn** module
+- Creating a linear regression model using the **LinearRegression** class from the **scikit-learn** module
 - Predicting the dependent variable based on the training set
 - Visualizing the actual vs predicted results for both the test set and data set
 
@@ -126,7 +126,7 @@ This section is written using a Jupyter framework, where all packages are instal
 pip install numpy
 pip install matplotlib
 pip install pandas
-pip install sklearn
+pip install scikit-learn
 ```
 
 #### **Section Overview** 
@@ -135,7 +135,7 @@ This section contains a Jupyter Notebook that takes in a CSV file containing dat
 This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
-- Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
+- Splitting the data into training and test sets using **train_test_split** from the **scikit-learn** module
 - Encoding categorical data using **OneHotEncoder**
 - Training multiple linear regression model on training set using the **LinearRegression** method
 - Using our linear regression model to predict results using the **predict** method
@@ -150,7 +150,7 @@ This section is written using a Jupyter framework, where all packages are instal
 pip install numpy
 pip install matplotlib
 pip install pandas
-pip install sklearn
+pip install scikit-learn
 ```
 
 #### **Section Overview** 
@@ -175,7 +175,7 @@ This section is written using a Jupyter framework, where all packages are instal
 pip install numpy
 pip install matplotlib
 pip install pandas
-pip install sklearn
+pip install scikit-learn
 ```
 
 #### **Section Overview** 
@@ -184,8 +184,8 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
-- Feature Scaling using and Standardization using **StandardScaler** from the **sklearn** module
-- Training the dataset using the **sklearn** module
+- Feature Scaling using and Standardization using **StandardScaler** from the **scikit-learn** module
+- Training the dataset using the **scikit-learn** module
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
 ---
@@ -199,7 +199,7 @@ This section is written using a Jupyter framework, where all packages are instal
 pip install numpy
 pip install matplotlib
 pip install pandas
-pip install sklearn
+pip install scikit-learn
 ```
 #### **Section Overview** 
 This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a Decision Tree relationship between job level and salary.
@@ -207,7 +207,7 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
-- Training the dataset using the **sklearn** module
+- Training the dataset using the **scikit-learn** module
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
 ---
@@ -221,7 +221,7 @@ This section is written using a Jupyter framework, where all packages are instal
 pip install numpy
 pip install matplotlib
 pip install pandas
-pip install sklearn
+pip install scikit-learn
 ```
 #### **Section Overview** 
 This section contains a Jupyter Notebook that takes in a CSV file containing mock data to determine if there is a Random Forest Regression relationship between job level and salary.
@@ -229,7 +229,7 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
-- Training the dataset using the **sklearn** module
+- Training the dataset using the **scikit-learn** module
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
 
@@ -237,7 +237,7 @@ This section demonstrates:
 To determine which regression model is best for a given dataset, run the following code snippet to get the r squared value. The closer r squared is to 1, the better the regression model is.
 
 ```python
-from sklearn.metrics import r2_score
+from scikit-learn.metrics import r2_score
 r2_score(y_test, y_pred)
 ```
 
@@ -253,7 +253,7 @@ This section is written using a Jupyter framework, where all packages are instal
 pip install numpy
 pip install matplotlib
 pip install pandas
-pip install sklearn
+pip install scikit-learn
 ```   
 #### **Section Overview**
 This section contains a Jupyter Notebook that takes in a CSV file a dataset of previous customer info from a popular car dealership. We want to determine if a customer will purchase a new vehicle based on age and salary.
@@ -261,9 +261,9 @@ This section contains a Jupyter Notebook that takes in a CSV file a dataset of p
 This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
-- Training the dataset using the **sklearn** module
-- Splitting the data into training and test sets using **train_test_split** from the **sklearn** module
-- Feature Scaling using and Standardization using **StandardScaler** from the **sklearn** module
+- Training the dataset using the **scikit-learn** module
+- Splitting the data into training and test sets using **train_test_split** from the **scikit-learn** module
+- Feature Scaling using and Standardization using **StandardScaler** from the **scikit-learn** module
 - Creation of a **confusion matrix** and calulating the accuracy score
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
