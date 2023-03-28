@@ -25,6 +25,8 @@ This repository documents my machine learning journey. This repository consists 
 
 ### [Classification Models](#Classification-models-1)
 - [01 - Logistic Regression](#01---Logistic-Regression)
+- [02 - K-Nearest Regression](#02---K-Nearest-Regression)
+- [03 - Support Vector Machines](#03---Support-Vector-Machine)
 
 #### Classification Template Files 
 - 
@@ -261,7 +263,7 @@ This section contains a Jupyter Notebook that takes in a CSV file a dataset of p
 This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
-- Training the dataset using the **scikit-learn** module
+- Training the dataset using the **scikit-learn** module (**LogisticRegression**)
 - Splitting the data into training and test sets using **train_test_split** from the **scikit-learn** module
 - Feature Scaling using and Standardization using **StandardScaler** from the **scikit-learn** module
 - Creation of a **confusion matrix** and calulating the accuracy score
@@ -269,6 +271,57 @@ This section demonstrates:
 - Visualization the data using the **matplotlib** module
 ---
 
-### **[Next Section]()**
-#### **Getting Started**    
+### **[02 - K-Nearest Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/02-k-nearest/k_nearest_regression.ipynb)**
+#### **Getting Started**   
+This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
+
+```powershell
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install scikit-learn
+```   
 #### **Section Overview**
+This section contains a Jupyter Notebook that takes in a CSV file a dataset of previous customer info from a popular car dealership. We want to determine if a customer will purchase a new vehicle based on age and salary.
+
+This section demonstrates:
+
+- Reading data from a CSV file using **pandas**
+- Training the dataset using the **scikit-learn** module (**KNeighborsClassifier**)
+- Splitting the data into training and test sets using **train_test_split** from the **scikit-learn** module
+- Feature Scaling using and Standardization using **StandardScaler** from the **scikit-learn** module
+- Creation of a **confusion matrix** and calulating the accuracy score
+- Predicting single and multiple values
+- Visualization the data using the **matplotlib** module
+---
+
+
+### **[03 - Support Vector Machine](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/03-support-vector-machine/support_vector_machine.ipynb)**
+#### **Getting Started**   
+This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
+
+```powershell
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install scikit-learn
+```   
+#### **Section Overview**
+This section contains a Jupyter Notebook that takes in a CSV file a dataset of previous customer info from a popular car dealership. We want to determine if a customer will purchase a new vehicle based on age and salary.
+
+This section demonstrates:
+
+- Reading data from a CSV file using **pandas**
+- Training the dataset using the **scikit-learn** module (**SVC**)
+- Splitting the data into training and test sets using **train_test_split** from the **scikit-learn** module
+- Feature Scaling using and Standardization using **StandardScaler** from the **scikit-learn** module
+- Creation of a **confusion matrix** and calulating the accuracy score
+- Predicting single and multiple values
+- Visualization the data using the **matplotlib** module
+---
+
+### **[04 - Next Section]()**
+#### **Getting Started** 
+#### **Section Overview**
+---
+
