@@ -114,7 +114,7 @@ This section demonstrates:
 - Predicting the dependent variable based on the training set
 - Visualizing the actual vs predicted results for both the test set and data set
 
-### **Linear Regression**
+### **Linear Regression Model**
 ![Linear Regression](/regression/02-simple-linear-regression/linear-regression.png)
 
 #### **Assumptions of Linear Regression** ###
@@ -169,6 +169,9 @@ This section demonstrates:
 - Training polynomial linear regression model on the dataset using the **PolynomialFeatures** method
 - Using our polynomial linear regression model to predict results using the **predict** method
 - Visualizing data using the **matplotlib** module
+
+### **Polynomial Regression Model**
+![Polynomial Regression](/regression/04-polynomial-regression/polynomial-regression.png)
 ---
 
 ### **[05 - Support Vector Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/05-support-vector-regression/support_vector_regression.ipynb)**
@@ -194,6 +197,10 @@ This section demonstrates:
 - Training the dataset using the **scikit-learn** module
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
+
+### **Support Vector Regression Model**
+![Support Vector Regression](/regression/05-support-vector-regression/support-vector-regression.png)
+
 ---
 
 ### **[06 - Decision Tree Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/06-decision-tree-regression/decision_tree_regression.ipynb)**
@@ -216,6 +223,10 @@ This section demonstrates:
 - Training the dataset using the **scikit-learn** module
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
+
+### **Decision Tree Regression Model**
+![Decision Tree Regression](/regression/06-decision-tree-regression/decision_tree_regression.png)
+
 ---
 
 ### **[07 - Random Forest Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/07-random-forest-regression/random_forest_regression.ipynb)**
@@ -238,6 +249,11 @@ This section demonstrates:
 - Training the dataset using the **scikit-learn** module
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
+
+### **Random Forest Regression Model**
+![Random Forest Regression](/regression/06-decision-tree-regression/decision_tree_regression.png)
+
+---
 
 ### Regression Conclusion: 
 To determine which regression model is best for a given dataset, run the following code snippet to get the r squared value. The closer r squared is to 1, the better the regression model is.
