@@ -27,6 +27,7 @@ This repository documents my machine learning journey. This repository consists 
 - [01 - Logistic Regression](#01---Logistic-Regression)
 - [02 - K-Nearest Regression](#02---K-Nearest-Regression)
 - [03 - Support Vector Machine](#03---Support-Vector-Machine)
+- [04 - Kernel SVM](#04---Kernel-SVM)
 
 #### Classification Template Files 
 - 
