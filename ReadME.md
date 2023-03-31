@@ -289,9 +289,14 @@ This section demonstrates:
 - Creation of a **confusion matrix** and calulating the accuracy score
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
----
 
+### **Logistic Regression Model**
+![Logistic Regression](/classification/01-logistic-regression/logistic_regression.png)
+
+---
 ### **[02 - K-Nearest Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/02-k-nearest/k_nearest_regression.ipynb)**
+
+
 #### **Getting Started**   
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
@@ -313,6 +318,10 @@ This section demonstrates:
 - Creation of a **confusion matrix** and calulating the accuracy score
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
+
+### **K-Nearest Regression Model**
+![K-Nearest Regression](/classification/02-k-nearest/k_nearest_regression.png)
+
 ---
 
 
@@ -338,6 +347,10 @@ This section demonstrates:
 - Creation of a **confusion matrix** and calulating the accuracy score
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
+
+### **Support Vector Machine Model**
+![Support Vector Machine](/classification/03-support-vector-machine/support_vector_machine.png)
+
 ---
 
 ### **[04 - Kernel SVM](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/04-kernel-svm/kernel_svm.ipynb)**
@@ -363,9 +376,14 @@ This section demonstrates:
 - Creation of a **confusion matrix** and calulating the accuracy score
 - Predicting single and multiple values
 - Visualization the data using the **matplotlib** module
+
+### **Kernel SVM Model**
+![Kernel SVM](/classification/04-kernel-svm/kernel_svm.png)
 ---
 
 ### **[05 - Next Section]()**
 #### **Getting Started** 
 #### **Section Overview**
+### **Support Vector Machine Model**
+![Model Name]()
 ---
