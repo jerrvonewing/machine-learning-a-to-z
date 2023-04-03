@@ -8,9 +8,8 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 - [03 - Support Vector Machine](#03---Support-Vector-Machine)
 - [04 - Kernel SVM](#04---Kernel-SVM)
 - [05 - Naive Bayes](#05---Naive-Bayes)
-
-## Classification Template Files 
-- 
+- [06 - Decision Tree Classification](#06---Decision-Tree-Classification)
+- [07 - Random Forest Classification](#07---Random-Forest-Classification)
 
 ---
 ## **Classification Models**
