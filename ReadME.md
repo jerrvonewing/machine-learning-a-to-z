@@ -24,3 +24,7 @@ This repository documents my machine learning journey. This repository consists 
 - 05 - Naive Bayes
 - 06 - Decision Tree Classification
 - 07 - Random Forest Classification
+
+### [Clustering Models]()
+- 01 - K-Means Clustering
+- 02 - Hierarchical Clustering

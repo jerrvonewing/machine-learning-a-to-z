@@ -5,3 +5,7 @@ classification/04-kernel-svm/Social_Network_Ads.csv
 classification/05-naive-bayes/Social_Network_Ads.csv
 classification/06-decision-tree-classification/Social_Network_Ads.csv
 classification/07-random-forest-classification/Social_Network_Ads.csv
+clustering/02-hierarchial/Mall_Customers.csv
+clustering/01-k-means/Mall_Customers.csv
+clustering/.DS_Store
+.DS_Store
