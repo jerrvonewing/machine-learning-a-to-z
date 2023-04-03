@@ -13,7 +13,7 @@ This section contains demonstration of several types of regression agaisnt sever
 - [07 - Random Forest Regression](#07---Random-Forest-Regression)
 
 ## Regression Template Files 
-- [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/01-data-preprocessing/data_preprocessing_template.ipynb)
+- [01 - Data Preprocessing Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/01-data-preprocessing/data_preprocessing.ipynb)
 - [03 - Multiple Linear Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/03-multiple-linear-regression/multiple_linear_regression_template.ipynb)
 - [04 - Polynomial Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/04-polynomial-regression/polynomial_regression_template.ipynb)
 - [05 - Support Vector Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/05-support-vector-regression/support_vector_regression_template.ipynb)
