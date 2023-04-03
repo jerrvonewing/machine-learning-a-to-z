@@ -8,10 +8,6 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 - [01 - K-Nearest Means Clustering](#01---K-Nearest-Means-Clustering)
 - [02 - Hierarchial Clustering](#02---Hierarchial-Clustering)
 
-## Classification Template Files 
--
--
-
 ---
 ## **Clustering Models**
 ### **[01 - K-Nearest Means Clustering](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/clustering/01-k-means/k_means_clustering.ipynb)**
