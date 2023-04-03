@@ -218,4 +218,4 @@ This section demonstrates:
 ## Conclusion
 After applying several classification models to the same dataset, we have come to the conclusion that the **Kernel SVM** classification model provides the best accuracy for predicting whether or not a customer will purchase the new vehicle model. 
 
-This is due to its p value of 0.93
+**This is due to its p value of 0.93**
