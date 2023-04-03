@@ -11,7 +11,7 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 - [06 - Decision Tree Classification](#06---Decision-Tree-Classification)
 - [07 - Random Forest Classification](#07---Random-Forest-Classification)
 
-## Regression Template Files 
+## Classification Template Files 
 - [01 - Logistic Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/01-logistic-regression/logistic_regression_template.ipynb)
 - [02 - K-Nearest Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/02-k-nearest/k_nearest_neighbors_template.ipynb)
 - [03 - Support Vector Machine](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/03-support-vector-machine/support_vector_machine_template.ipynb)
@@ -210,6 +210,12 @@ This section demonstrates:
 - Visualization the data using the **matplotlib** module
 
 
-#### **Support Vector Machine Model**
+#### **Random Forest Classification**
 ![07 - Random Forest Classification](/classification/07-random-forest-classification/random_forest_classification.png)
 
+---
+
+## Conclusion
+After applying several classification models to the same dataset, we have come to the conclusion that the Support Vector Machine classification model provides the best accuracy for predicting whether or not a customer will purchase the new vehicle model. 
+
+This is due to its p value of 0.93
