@@ -11,6 +11,15 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 - [06 - Decision Tree Classification](#06---Decision-Tree-Classification)
 - [07 - Random Forest Classification](#07---Random-Forest-Classification)
 
+## Regression Template Files 
+- [01 - Logistic Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/01-logistic-regression/logistic_regression_template.ipynb)
+- [02 - K-Nearest Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/02-k-nearest/k_nearest_neighbors_template.ipynb)
+- [03 - Support Vector Machine](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/03-support-vector-machine/support_vector_machine_template.ipynb)
+- [04 - Kernel SVM](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/04-kernel-svm/kernel_svm_template.ipynb)
+- [05 - Naive Bayes](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/05-naive-bayes/naive_bayes_template.ipynb)
+- [06 - Decision Tree Classification](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/06-decision-tree-classification/decision_tree_classification_template.ipynb)
+- [07 - Random Forest Classification](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/07-random-forest-classification/random_forest_classification_template.ipynb)
+
 ---
 ## **Classification Models**
 ### **[01 - Logistic Regression](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/01-logistic-regression/logistic_regression.ipynb)**
