@@ -6,7 +6,7 @@ This repository documents my machine learning journey. This repository consists 
 
 ---
 ##  Table of Contents 
-### [Regression Models](#Regression-models-1)
+### [Regression Models](https://github.com/jerrvonewing/machine-learning-a-to-z/tree/main/regression)
 - [01 - Data Preprocessing](#01---Data-Preprocessing)
 - [02 - Simple Linear Regression](#02---Simple-Linear-Regression)
 - [03 - Multiple Linear Regression](#03---Multiple-Linear-Regression)
@@ -23,7 +23,7 @@ This repository documents my machine learning journey. This repository consists 
 - [06 - Decision Tree Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/06-decision-tree-regression/decision_tree_regression_template.ipynb)
 - [07 - Random Forest Regression Template](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/regression/07-random-forest-regression/random_forest_regression_template.ipynb)
 
-### [Classification Models](#Classification-models-1)
+### [Classification Models](https://github.com/jerrvonewing/machine-learning-a-to-z/tree/main/classification)
 - [01 - Logistic Regression](#01---Logistic-Regression)
 - [02 - K-Nearest Regression](#02---K-Nearest-Regression)
 - [03 - Support Vector Machine](#03---Support-Vector-Machine)
