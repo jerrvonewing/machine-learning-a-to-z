@@ -47,16 +47,32 @@ pip install numpy
 pip install matplotlib
 pip install pandas
 pip install scikit-learn
+pip install scipy
 ```   
 #### **Section Overview**
 This section demonstrates:
 
-- 
+- Reading data from a CSV file using **pandas**
+- Creating a dendrogram using the **scipy** module
+- Training the dataset using the **scikit-learn** module **AgglomerativeClustering**
+- Visualization the data using the **matplotlib** module
 
 #### **Hierarchial Clustering**
-![Hierarchial Clustering]()
+![Hierarchial Clustering](/clustering/02-hierarchial/hierarchial_clustering.png)
 
 ---
 
 ## Conclusion
+### K-Means
+#### Pros
+Simple to understand, easily adaptable, works well on small or large datasets, fast, efficient and performant
+
+#### Cons
+Need to choose the number of clusters
+
+### Hierarchial Clustering
+#### Pros
+The optimal number of clusters can be obtained by the model itself, practical visualization with the dendrogram
+#### Cons
+Not appropriate for large datasets
 
