@@ -14,7 +14,7 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 
 ---
 ## **Clustering Models**
-### **[01 - K-Nearest Means Clustering]()**
+### **[01 - K-Nearest Means Clustering](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/clustering/01-k-means/k_means_clustering.ipynb)**
 #### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
@@ -28,15 +28,12 @@ pip install scikit-learn
 This section demonstrates:
 
 - Reading data from a CSV file using **pandas**
-- Training the dataset using the **scikit-learn** module (**LogisticRegression**)
-- Splitting the data into training and test sets using **train_test_split** from the **scikit-learn** module
-- Feature Scaling using and Standardization using **StandardScaler** from the **scikit-learn** module
-- Creation of a **confusion matrix** and calulating the accuracy score
-- Predicting single and multiple values
+- Training the dataset using the **scikit-learn** module **KMeans**
+- Determining the optimal amount of clusters using **the Elbow Method**
 - Visualization the data using the **matplotlib** module
 
-#### **Logistic Regression Model**
-![Logistic Regression]()
+#### **K-Means Cluster**
+![K-Means Cluster](/clustering/01-k-means/k_means_clustering.png)
 
 ---
 ### **[02 - Hierarchial Clustering]()**
@@ -54,16 +51,10 @@ pip install scikit-learn
 #### **Section Overview**
 This section demonstrates:
 
-- Reading data from a CSV file using **pandas**
-- Training the dataset using the **scikit-learn** module (**KNeighborsClassifier**)
-- Splitting the data into training and test sets using **train_test_split** from the **scikit-learn** module
-- Feature Scaling using and Standardization using **StandardScaler** from the **scikit-learn** module
-- Creation of a **confusion matrix** and calulating the accuracy score
-- Predicting single and multiple values
-- Visualization the data using the **matplotlib** module
+- 
 
-#### **K-Nearest Regression Model**
-![K-Nearest Regression]()
+#### **Hierarchial Clustering**
+![Hierarchial Clustering]()
 
 ---
 

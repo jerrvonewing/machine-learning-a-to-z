@@ -25,6 +25,6 @@ This repository documents my machine learning journey. This repository consists 
 - 06 - Decision Tree Classification
 - 07 - Random Forest Classification
 
-### [Clustering Models]()
+### [Clustering Models](https://github.com/jerrvonewing/machine-learning-a-to-z/tree/main/clustering)
 - 01 - K-Means Clustering
 - 02 - Hierarchical Clustering
