@@ -1,5 +1,5 @@
 # **Project Overview** ##
-![Regressions](https://media.tenor.com/PcgejvSc4DcAAAAC/linear.gif)
+![Regressions](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png)
 
 This section contains demonstration of several types of regression agaisnt several different datasets to determine the best regression method.
 

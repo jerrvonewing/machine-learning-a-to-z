@@ -1,5 +1,5 @@
 # **Project Overview** ##
-![Regressions](https://media.tenor.com/20n67BNCG9wAAAAd/linear-regression.gif)
+![Regressions](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/10/Machine-Learning-Classification-Algorithms.jpg)
 
 This section contains a Jupyter Notebook that takes in a CSV file containing mock data from a car delaership. The data contains customer salary, age, and whether or not they purchased the vehicle. Finding the best classification model will help target future customers through social network ads. 
 
