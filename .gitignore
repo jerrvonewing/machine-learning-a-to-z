@@ -4,3 +4,4 @@ classification/03-support-vector-machine/Social_Network_Ads.csv
 classification/04-kernel-svm/Social_Network_Ads.csv
 classification/05-naive-bayes/Social_Network_Ads.csv
 classification/06-decision-tree-classification/Social_Network_Ads.csv
+classification/07-random-forest-classification/Social_Network_Ads.csv
