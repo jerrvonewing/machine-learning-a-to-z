@@ -22,3 +22,5 @@ This repository documents my machine learning journey. This repository consists 
 - 03 - Support Vector Machine
 - 04 - Kernel SVM
 - 05 - Naive Bayes
+- 06 - Decision Tree Classification
+- 07 - Random Forest Classification
