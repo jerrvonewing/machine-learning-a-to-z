@@ -102,7 +102,7 @@ This section demonstrates:
 - Visualizing the actual vs predicted results for both the test set and data set
 
 #### **Linear Regression Model**
-![Linear Regression](/regression/02-simple-linear-regression/linear-regression.png)
+![Linear Regression](/regression/02-simple-linear-regression/simple_linear_regression.png)
 
 #### **Assumptions of Linear Regression** ###
 ![Assumptions of Linear Regression Graphic](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/B97-Header-Image.jpg)
