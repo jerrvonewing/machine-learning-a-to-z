@@ -28,6 +28,7 @@ This repository documents my machine learning journey. This repository consists 
 - [02 - K-Nearest Regression](#02---K-Nearest-Regression)
 - [03 - Support Vector Machine](#03---Support-Vector-Machine)
 - [04 - Kernel SVM](#04---Kernel-SVM)
+- [05 - Naive Bayes](#05---Naive-Bayes)
 
 #### Classification Template Files 
 - 
@@ -381,7 +382,35 @@ This section demonstrates:
 ![Kernel SVM](/classification/04-kernel-svm/kernel_svm.png)
 ---
 
-### **[05 - Next Section]()**
+### **[05 - Naive Bayes](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/classification/04-naive-bayes/naive_bayes.ipynb)**
+#### **Getting Started** 
+This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
+
+```powershell
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install scikit-learn
+``` 
+
+#### **Section Overview**
+This section contains a Jupyter Notebook that takes in a CSV file a dataset of previous customer info from a popular car dealership. We want to determine if a customer will purchase a new vehicle based on age and salary.
+
+This section demonstrates:
+
+- Reading data from a CSV file using **pandas**
+- Training the dataset on Naive Bayes using the **scikit-learn** module (**GaussianNB**)
+- Splitting the data into training and test sets using **train_test_split** from the **scikit-learn** module
+- Feature Scaling using and Standardization using **StandardScaler** from the **scikit-learn** module
+- Creation of a **confusion matrix** and calulating the accuracy score
+- Predicting single and multiple values
+- Visualization the data using the **matplotlib** module
+
+### **Naive Bayes Model**
+![Naive Bayes](/classification/05-naive-bayes/naive_bayes.png)
+---
+
+### **[06 - Next Section]()**
 #### **Getting Started** 
 #### **Section Overview**
 ### **Support Vector Machine Model**
