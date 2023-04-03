@@ -6,7 +6,7 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 ---
 ## [Table of Contents](#Clustering-Models)
 - [01 - K-Nearest Means Clustering](#01---K-Nearest-Means-Clustering)
-- [02 - Hierarchial Clustering](#02---K-Nearest-Regression)
+- [02 - Hierarchial Clustering](#02---Hierarchial-Clustering)
 
 ## Classification Template Files 
 -
@@ -36,7 +36,7 @@ This section demonstrates:
 ![K-Means Cluster](/clustering/01-k-means/k_means_clustering.png)
 
 ---
-### **[02 - Hierarchial Clustering]()**
+### **[02 - Hierarchial Clustering](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/clustering/02-hierarchial/hierarchial_clustering.ipynb)**
 
 
 #### **Getting Started**   
@@ -65,14 +65,14 @@ This section demonstrates:
 ## Conclusion
 ### K-Means
 #### Pros
-Simple to understand, easily adaptable, works well on small or large datasets, fast, efficient and performant
+- Simple to understand, easily adaptable, works well on small or large datasets, fast, efficient and performant
 
 #### Cons
-Need to choose the number of clusters
+- Need to choose the number of clusters
 
 ### Hierarchial Clustering
 #### Pros
-The optimal number of clusters can be obtained by the model itself, practical visualization with the dendrogram
+- The optimal number of clusters can be obtained by the model itself, practical visualization with the dendrogram
 #### Cons
-Not appropriate for large datasets
+- Not appropriate for large datasets
 
