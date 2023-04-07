@@ -1,5 +1,5 @@
 # **Machine Learning A to Z** #
-![Thinking AI](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)
+![Thinking AI](https://media4.giphy.com/media/VhK5Wmso8LJAWreQdZ/giphy.gif?cid=6c09b952d0oi7l718wng19l9cx33xss6lrzm0m1onklsezk4&rid=giphy.gif&ct=g)
 
 ## **Project Overview** ##
 This repository documents my machine learning journey. This repository consists of files demonstrating the work, as well as template files that help kickstart machine learning applications
