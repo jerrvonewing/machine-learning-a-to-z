@@ -13,4 +13,4 @@ This repository documents my machine learning journey. This repository consists 
 
 - ### [Clustering Models](https://github.com/jerrvonewing/machine-learning-a-to-z/tree/main/clustering)
 
-- ### [Association Rule Learning Models](https://github.com/jerrvonewing/machine-learning-a-to-z/tree/main/clustering)
+- ### [Association Rule Learning Models](https://github.com/jerrvonewing/machine-learning-a-to-z/tree/main/association-rule-learning)
