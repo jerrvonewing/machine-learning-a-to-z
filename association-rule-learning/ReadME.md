@@ -9,10 +9,6 @@ This section contains demonstration of association rule learning using both apri
 - [01 - Apriori](#01---Apriori)
 - [02 - Eclat](#02---Eclat)
 
-## Association Rule Template Files 
-- [01 - Apriori Template]()
-- [02 - Eclat Template]()
-
 ---
 ## ** Association Rule Results**
 
