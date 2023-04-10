@@ -16,7 +16,7 @@ This section contains demonstration of association rule learning using both apri
 ---
 ## ** Association Rule Results**
 
-### **[01 - Apriori](/association-rule-learning/01-apriori/apriori.png)**
+### **[01 - Apriori](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/association-rule-learning/01-apriori/apriori.ipynb)**
 
 #### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
@@ -39,7 +39,7 @@ This section demonstrates:
 - Visualizing the data using **pandas** DataFrames
 
 #### Apriori Visualization
-![Apriori Visualization]()
+![Apriori Visualization](/association-rule-learning/01-apriori/apriori.png)
 
 ---
 
