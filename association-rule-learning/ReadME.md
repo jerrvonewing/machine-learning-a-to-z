@@ -43,12 +43,14 @@ This section demonstrates:
 
 ---
 
-### **[02 - Eclat]()**
+### **[02 - Eclat](https://github.com/jerrvonewing/machine-learning-a-to-z/blob/main/association-rule-learning/02-eclat/eclat.ipynb)**
 
 #### **Getting Started** 
 This section is written using a Jupyter framework, where all packages are installed in  Google Collab. If you need to install the packages used in this section, copy the following commands:
 
 ```powershell
+pip install numpy
+pip install matplotlib
 pip install pandas
 pip install apyori
 ```
@@ -59,7 +61,9 @@ This section contains a Jupyter Notebook that takes in a CSV file containing moc
 
 This section demonstrates:
 
-- 
+- Reading data from a CSV file using **pandas**
+- Training the apriori model on the dataset using the **apyori** module
+- Visualizing the data using **pandas** DataFrames
 
 #### Eclat Visualization
-![Eclat Visualization]()
+![Eclat Visualization](/association-rule-learning/02-eclat/eclat.png)
